@@ -1,0 +1,4 @@
+﻿  TextVersionOfNumber.cpp
+C:\Users\Joe Sitterly\Source\Repos\Assegment001\Assegment001\TextVersionOfNumber.cpp(43,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joe Sitterly\Source\Repos\Assegment001\Assegment001\TextVersionOfNumber.cpp(69,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assegment001.vcxproj -> C:\Users\Joe Sitterly\Source\Repos\Assegment001\Debug\Assegment001.exe

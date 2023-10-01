@@ -1,0 +1,8 @@
+This introductory course in C++ programming 
+includes object-oriented, event-driven, 
+interactive programming techniques. Topics include 
+data types, pointers, arrays, stacks, recursion, 
+string processing, searching and sorting 
+algorithms, classes and objects, references 
+and memory addresses, scope, streams and files, 
+and graphics. 

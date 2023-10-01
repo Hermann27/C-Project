@@ -1,0 +1,26 @@
+A programming language is an artificial language designed
+to communicate instructions to a machine, particularly
+a computer. Programming languages can be used to create
+programs that control the behavior of a machine and/or to
+express algorithms precisely.
+The earliest programming languages predate the invention
+of the computer, and were used to direct the behavior of
+machines such as Jacquard looms and player pianos.
+Thousands of different programming languages have been
+created, mainly in the computer field, with many being
+created every year. Most programming languages describe
+computation in an imperative style, i.e., as a sequence
+of commands, although some languages, such as those that
+support functional programming or logic programming, use
+alternative forms of description.
+The description of a programming language is usually split
+into the two components of syntax (form) and semantics (meaning).
+Some languages are defined by a specification document (for example,
+the C programming language is specified by an ISO Standard),
+while other languages, such as Perl 5 and earlier, have a
+dominant implementation that is used as a reference.
+The term computer language is sometimes used interchangeably
+with programming language.However, the usage of both
+terms varies among authors, including the exact scope of each.
+One usage describes programming languages as a subset
+of computer languages.
